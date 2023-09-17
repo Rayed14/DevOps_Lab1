@@ -1,0 +1,1 @@
+Newly created file after the git reset hard command. 
